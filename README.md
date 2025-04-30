@@ -1,6 +1,6 @@
 
 # Internal Dashboard
-
+Internal Project Developed for managing roster inside the Talent Group
 ![Screenshot of main view](./resources/main-page.png)
 
 ## Needed Dependencies
